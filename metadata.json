@@ -1,7 +1,7 @@
 {
-  "name": "Copy of LinguistAI CEFR Assessor",
+  "name": "LinguistAI CEFR Assessor",
   "description": "An AI-powered English proficiency assessor that evaluates speaking skills based on CEFR standards using the Gemini API.",
   "requestFramePermissions": [
     "microphone"
   ]
-}   
+}
